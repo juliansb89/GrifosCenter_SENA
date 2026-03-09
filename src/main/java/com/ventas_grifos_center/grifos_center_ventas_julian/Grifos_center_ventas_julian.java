@@ -39,7 +39,7 @@ public class Grifos_center_ventas_julian {
           /*Anular venta
           stmt.execute("DELETE FROM facturas WHERE id_fac = 1");
           */
-          /*System.out.println("Informacion ingresada");*/
+          System.out.println("Informacion ingresada");
     
             } catch (Exception e) {
             System.out.println("Has tenido un error" + e);
